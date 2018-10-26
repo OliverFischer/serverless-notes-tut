@@ -1,4 +1,5 @@
 # Serverless Node.js Starter
+This is a simple replay of the tutorial from https://serverless-stack.com.
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
 
